@@ -8,7 +8,7 @@ library(RgoogleMaps)
 
 
 
-ggmap::register_google(key = "AIzaSyCs2fE3-MSdWOI1To5bOd1IyHAeQrvnN9c")
+ggmap::register_google(key = "...")
 
 
 
